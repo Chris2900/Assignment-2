@@ -1,0 +1,11 @@
+body {
+ max-width: 40rem;
+ margin-left: auto;
+ margin-right: auto;
+ font-family: sans-serif;   
+ background: #fefefe;
+}
+
+img {
+    max-width: 100%;
+}
